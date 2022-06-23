@@ -1,1 +1,1 @@
-sed -i echo "ALX"/c\echo "ALX School"echo "ALX School" 
+sed -i echo "ALX"/c\echo "ALX School is so cool!" 
